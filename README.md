@@ -1,7 +1,5 @@
 # End-to-End-ML-Project
----
 ## End-to-end-ML-Project
----
 1. Workflows
 2. update config.yaml
 3. update schema.yaml
